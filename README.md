@@ -1,7 +1,3 @@
----
-description: This is a guide for integration of GitHub and Macbook
----
-
 # Github Macbook Integration
 
 ## Step 1 - Create a Repo on GitHub <a href="#step-1-install-java" id="step-1-install-java"></a>
